@@ -1,0 +1,36 @@
+.mcontainer {
+	max-width: 1000px;
+	padding: 50px;
+	margin: 100px auto;
+	box-shadow: 5px 20px 20px 20px #999999;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.tagaytaylogo, .cctlogo {
+    flex: 0 0 auto;
+}
+
+.Title {
+    flex: 1;
+    text-align: center;
+    background: white;
+    color: #800000;
+    font-size: 16px;
+    padding: 10px;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    }
